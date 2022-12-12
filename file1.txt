@@ -1,1 +1,1 @@
-In file1.txt before 1st commit
+modified it in branch1
